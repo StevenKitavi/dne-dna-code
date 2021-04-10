@@ -1,0 +1,153 @@
+[
+    {
+        "id": "L_646829496481105433",
+        "organizationId": "549236",
+        "name": "DevNet Sandbox ALWAYS ON",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "switch",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481107951",
+        "organizationId": "549236",
+        "name": "DNSMB3-ixxxxxxsgmail.com",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481107981",
+        "organizationId": "549236",
+        "name": "DNENT2-pxxxycoventry.ac.uk",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481107986",
+        "organizationId": "549236",
+        "name": "DNSMB4-jxxxxx1gmail.com",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481108005",
+        "organizationId": "549236",
+        "name": "DNENT1-mxxx3gmail.com",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481108006",
+        "organizationId": "549236",
+        "name": "DNENT3-sxxxrgmail.com",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481108010",
+        "organizationId": "549236",
+        "name": "DNSMB5",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481108013",
+        "organizationId": "549236",
+        "name": "DNSMB2",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_646829496481108016",
+        "organizationId": "549236",
+        "name": "DNSMB1",
+        "timeZone": "America/Los_Angeles",
+        "tags": null,
+        "productTypes": [
+            "appliance",
+            "camera",
+            "switch",
+            "systems manager",
+            "wireless"
+        ],
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    }
+]

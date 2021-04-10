@@ -1,0 +1,6 @@
+curl --request GET -L \
+  --url https://api.meraki.com/api/v0/organizations \
+  --header 'X-Cisco-Meraki-API-Key: 88de3e7c10500c3debf19902613504503350831c'
+
+
+  
